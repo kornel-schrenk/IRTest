@@ -2,7 +2,7 @@
 
 ## Description
 
-IR receiver test for your project. 
+IR receiver test for your project. More information can be found in this [article](http://www.schrenk.hu/2016/03/31/IRTest/).
 
 ## Parts
 
